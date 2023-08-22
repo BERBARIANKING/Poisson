@@ -1,5 +1,5 @@
 #Author:Nikolaos Bermparis
-#Propability Mass Funtion
+#Propability Mass Function
 
 #Library collection
 import numpy as np
