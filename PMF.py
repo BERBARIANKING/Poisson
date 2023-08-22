@@ -11,7 +11,9 @@ mean = float(input("Enter the mean of the Poisson distribution: "))
 start = int(input("Enter the start of the range (inclusive): "))
 end = int(input("Enter the end of the range (inclusive): "))
 
+
 # Generate range of values
+#This array(k) will be used to represent the possible values of the random variable in the Poisson distribution.
 k = np.arange(start, end+1)
 
 # Calculate Poisson probabilities
