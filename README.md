@@ -1,5 +1,5 @@
 # Poisson
-A Poisson based simulation and visualization collection of programs using python
+A [Poisson](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/poisson-distribution#:~:text=The%20PMF%20of%20the%20Poisson,distribution%20is%20the%20sample%20mean.) based simulation and visualization collection of programs using python
 
 This program simulates and visualizes a Poisson distribution based on user-defined parameters. The Poisson distribution is a probability distribution that models the number of events occurring in a fixed interval of time or space, given a known average rate of occurrence.
 
