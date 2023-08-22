@@ -11,6 +11,7 @@ In this program we are given a series of questions based on mean of the distribu
 
 For this example we are able to provide a mean of 7 with a range of 0 to 17
 
+
 The output is provided in the figure below:
 
 <img src="/img/figure1.png" title="figure1" alt="figure1">
