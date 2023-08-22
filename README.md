@@ -5,7 +5,7 @@ This program simulates and visualizes a Poisson distribution based on user-defin
 
 <img src="/img/poisson2.png" title="PMF" alt="PMF">
 
-##Example
+## Example
 
 In this program we are given a series of questions based on mean of the distribution and the range 
 For this example we are able to provide a mean of 7 with a range of 0 to 17
