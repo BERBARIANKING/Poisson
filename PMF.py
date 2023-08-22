@@ -1,5 +1,21 @@
-#Author:Nikolaos Bermparis
-#Propability Mass Function
+# Author:Nikolaos Bermparis
+# Propability Mass Function
+
+
+# Suppose you own a coffee shop, and you're interested in analyzing the number of customers that enter your shop during a certain time period.
+# You want to use the Poisson distribution to model the number of customers based on historical data.
+
+
+# Mean: You input the average number of customers that enter your coffee shop in an hour.
+# Let's say the historical data suggests an average of 20 customers per hour.
+
+# Range: You input a range of values, let's say from 0 to 40 customers. 
+# This means you're interested in calculating probabilities for the number of customers ranging from 0 to 40.
+
+
+# The program will calculate the Poisson probabilities for each value in the range based on the average of 20 customers per hour.
+# The program will also display a plot showing the Poisson distribution of customer arrivals.
+# The x-axis will represent the number of customers (0 to 40), and the y-axis will represent the probability of that number of customers arriving.
 
 #Library collection
 import numpy as np
