@@ -4,6 +4,7 @@ A [Poisson](https://www.sciencedirect.com/topics/agricultural-and-biological-sci
 
 This program simulates and visualizes a Poisson distribution based on user-defined parameters. The Poisson distribution is a probability distribution that models the number of events occurring in a fixed interval of time or space, given a known average rate of occurrence.
 
+
 The following are the key criteria that the random variable follows the Poisson distribution:
 
 - Individual events occur at random and independently in a given interval. This can be an interval of time or space.
